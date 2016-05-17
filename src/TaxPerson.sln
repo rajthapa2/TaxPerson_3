@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxPerson.Service", "TaxPerson.Service\TaxPerson.Service.csproj", "{7549BD31-622B-4E85-9B92-FA15CA8CE843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit.TaxPerson.Tests", "Unit.TaxPerson.Tests\Unit.TaxPerson.Tests.csproj", "{56D5EE31-E2B8-4B4B-9334-512B0B33B8A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7549BD31-622B-4E85-9B92-FA15CA8CE843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7549BD31-622B-4E85-9B92-FA15CA8CE843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7549BD31-622B-4E85-9B92-FA15CA8CE843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7549BD31-622B-4E85-9B92-FA15CA8CE843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D5EE31-E2B8-4B4B-9334-512B0B33B8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D5EE31-E2B8-4B4B-9334-512B0B33B8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D5EE31-E2B8-4B4B-9334-512B0B33B8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D5EE31-E2B8-4B4B-9334-512B0B33B8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
